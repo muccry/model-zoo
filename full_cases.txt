@@ -67,3 +67,5 @@ vision/detection/ssd-mobilenet
 vision/detection/ppyolov3
 vision/detection/pp-picodet
 language/nlp/mobilebert_tflite
+vision/segmentation/unet
+vision/detection/MobileNet-SSD
